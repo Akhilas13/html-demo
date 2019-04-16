@@ -1,0 +1,12 @@
+
+body{background-color: gray;
+	margin: auto;
+	width: 450px;
+}
+.pop{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	text-align: center;
+	margin: 10px 0px 10px 0px;	
+}
