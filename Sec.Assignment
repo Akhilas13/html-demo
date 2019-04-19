@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<link rel="style sheet" href="css/Styles.css"/>
+
+</head>
+<body>
+<h1>Web Page</h1>
+<ul>
+<li><a href="">Home</a></li>
+<li><a href=""><page></a></li>
+<li><a href=""><Rating</a></li>
+</ul>
+

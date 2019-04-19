@@ -1,0 +1,32 @@
+ li{
+	display: inline;
+	list-style: none;
+	font-style: italic;
+	color: green;
+}
+body{
+	margin: 20 auto;
+	width: 600px;
+	font-family: sans-serif;
+}
+img{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 20px;
+}
+.preview{
+	float: right
+	width: 380px;
+}
+article h1{
+	font-size: 39px
+	line-height: 10px;
+
+}
+li:after{
+	content: '\\'
+	}
+li:last-child:after{
+	content: none;
+}
